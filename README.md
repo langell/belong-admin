@@ -1,2 +1,0 @@
-# belong-admin
-Begin app
